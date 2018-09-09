@@ -3,3 +3,8 @@ AddType application/x-httpd-php .htm .html
 #allow js
 AddType text/css .css
 AddType text/javascript .js
+#pretty-links
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ RewriteRule ^.*$ ./index.php
