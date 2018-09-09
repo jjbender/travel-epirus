@@ -1,0 +1,5 @@
+#allow php scripts on html pages
+AddType application/x-httpd-php .htm .html
+#allow js
+AddType text/css .css
+AddType text/javascript .js

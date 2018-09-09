@@ -1,0 +1,236 @@
+/*index_page style*/
+ body{
+  background: white;
+  color:white;
+  font-family: sans-serif,monospace;
+  margin:0;
+  height:100%;
+}
+/* TOP NAVIGATION */
+/* Change the background color on mouse-over */
+.header{
+  overflow: hidden;
+  background: linear-gradient(to right,#51007A , #6085f4);
+}
+
+}
+.header-right {
+  margin-right: 10px;
+  padding-right: 10px;
+  margin-top: auto;
+}
+/* Style the active/current link*/
+
+.header #logo a {
+  float: left;
+  color: #6085f4;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 2px;
+}
+
+.header  a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+
+}
+.header-right a:hover{
+  background-color:#5186e8;
+  border-radius: 15px;
+}
+
+/* TOP NAVIGATION */
+
+#slide1 {
+    overflow: hidden;
+    background:50% 0 no-repeat fixed;
+    background-color:white;
+    height: 450px;
+    width:100%;
+    margin: 0;
+    padding: 100px 0 50px ;
+    background-position: center;
+    box-sizing: content-box;
+    background-size: cover;
+}
+
+#slide2 {
+    background:url("../images/epir.jpg") 50% 0 no-repeat fixed;
+    background-color:lightgray;
+    color: #fff;
+    height: 150px;
+    width:100%;
+    margin: 0 ;
+
+    padding: 200px 0;
+    background-position: center;
+    box-sizing: content-box;
+    background-size: cover;
+}
+
+
+ h2{
+  color: white;
+  font-size: 1.5em;
+
+  background: rgba(0, 0, 0, 0.55);
+  position:relative;
+  text-align: center;
+  margin: 0 20% 0 20%;
+
+
+}
+
+#h5index {
+  background: white;
+  text-align: center;
+  margin: 5% 0 10% 0;
+  position: relative;
+  color:#51007A;
+
+}
+#mapid{
+    margin:0 5% 0 0;
+    height:400px;
+    width: 100%;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.column {
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 4px;
+}
+
+
+/* GRID */
+.indexgrid{
+  box-sizing: border-box;
+  margin-left: 10%;
+  margin-bottom: 10px;
+  position: relative;
+  display:grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 250px));
+  grid-auto-rows:250px;
+  grid-auto-flow: dense;
+}
+  .itemimg{
+  /*  margin: auto; - causes bug in Chrome*/
+    box-sizing: border-box;
+    display:grid;
+    align-items: end;
+
+    /*grid-row: span 2;*/
+  }
+  .itemimg img{
+    /*    border: 1px solid rgba(0, 0, 0, 0.8); */
+    grid-row: 1/2;
+    grid-column: 1/2;
+    object-fit: cover;
+    width:auto;
+    height:auto;
+  }
+  .itemimg a {
+
+      grid-row: 1/2;
+        grid-column: 1/2;
+        text-decoration: none;
+      /*  background: rgba(0, 0, 0, 0.55);*/
+        border-top-right-radius: 15px;
+        background: linear-gradient(to right, rgba(15, 46, 158,0.50), rgba(96,133,244,0.20));
+        margin-right: 15%;
+        /*margin-bottom:1rem;*/
+
+
+      /*  object-fit: cover; */
+  }
+  .itemimg a:hover{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    text-decoration: none;}
+  .itemimg h3 {
+          color:white;
+          outline-color: black;
+          top:50%;
+          left:0%;
+          margin: 1% 0 0 0;
+          grid-row: span 2;
+          padding-left: 1rem;
+          font-size: 2rem;
+      }
+  .itemimg h3:hover {
+    border-top-right-radius: 15px;
+    background: linear-gradient(to right, rgba(81, 0, 122,0.80), rgba(96,133,244,0.60));
+
+}
+
+
+
+  /*.itemimg h3:hover {
+          color:white;
+          top:50%;
+          left:0%;
+          margin: 0;
+          grid-row: span 2;
+          padding-left: 1rem;
+          font-size: 2rem;
+          mix-blend-mode: difference;
+*/
+/*GRID*/
+/* .centered {
+    font-size: 20pt;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}*/
+
+.footer {
+    position: absolute;
+    height: auto;
+    width: 100%;
+    background: linear-gradient(to right,#51007A , #6085f4);
+    color: white;
+    text-align: left;
+
+}
+.footer h6{
+  font-size: 2vh;
+}
+
+/*responsiveness
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
+
+}
+
+@media (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}

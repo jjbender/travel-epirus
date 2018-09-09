@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<destinationslist>
+  <dest>
+      <dest_en> Ioannina </dest_en>
+      <dest_ru> Янина </dest_ru>
+      <dest_gr> Ιωάννινα </desr_gr>
+  </dest>
+  <dest>
+      <dest_en> Igoumenitsa </dest_en>
+      <dest_ru> Игуменица </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Paramythia </dest_en>
+      <dest_ru> Парамития </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Parga </dest_en>
+      <dest_ru> Парга </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Preveza </dest_en>
+      <dest_ru> Превеза </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Syvota </dest_en>
+      <dest_ru> Сивота </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Metsovo </dest_en>
+      <dest_ru> Метсово </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Konitsa </dest_en>
+      <dest_ru> Коница </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Papigko </dest_en>
+      <dest_ru> Папингон </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Arta </dest_en>
+      <dest_ru> Арта </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Plataria </dest_en>
+      <dest_ru> Платария </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Perdika </dest_en>
+      <dest_ru> Пердика </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Ammoudia </dest_en>
+      <dest_ru> Амудия </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Kanali </dest_en>
+      <dest_ru> Канали </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Vrachos </dest_en>
+      <dest_ru> Врачос </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Pogoni </dest_en>
+      <dest_ru> Погони </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Filiates </dest_en>
+      <dest_ru> Фильяте </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Vikos </dest_en>
+      <dest_ru> Викос </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Zagori </dest_en>
+      <dest_ru> Загори </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Dodoni </dest_en>
+      <dest_ru> Додони </dest_ru>
+  </dest>
+  <dest>
+      <dest_en> Souli </dest_en>
+      <dest_ru> Сули </dest_ru>
+  </dest>
+
+</destinationslist>
