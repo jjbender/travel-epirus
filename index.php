@@ -9,10 +9,10 @@
     <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
 </head>
 <body>
-
+include_once __DIR__.'/config/config.php';
 <! topnav -logo https://logomakr.com/8NgXv0-->
-<?php include ('config/config.php');
-      include ('views/seg/header.php'); ?>
+<?php
+      include_once __DIR__.'/views/seg/header.php'; ?>
 
 
 
@@ -67,4 +67,4 @@
 </div>
 <br>
 <!-- view-source:http://xn-----6kccazdogc2ajaki7drj2e.xn--p1ai/  for the js events-->
-<?php include ('views/seg/footer.php'); ?>
+<?php include_once __DIR__.'/views/seg/footer.php'; ?>
