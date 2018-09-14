@@ -1,14 +1,4 @@
-<!doctype html>
-<html amp lang="en">
-  <head>
-  <title>Reviews Map Epirus</title>
-  <meta charset="utf-8">
-
-<link rel="stylesheet" href="css\style.css" type="text/css" />
-</head>
-<body>
-<a href="index.html">back</a>
-<a href="https://home.id.com.au/privacy-policy/">source</a>
+<!--a href=/"https://home.id.com.au/privacy-policy/">source</a> "/ -->
 <h2> Privacy Policy - Epirus Region Portfolio </h2>
 <p> .id Consulting Pty Limited ACN 084 054 473 and all related corporations (“.id, we or our”) understand the importance of protecting an individual’s rights to privacy. We have prepared this statement to help you understand how we aim to protect the privacy of your personal information and the personal information of others, obtained through use of our websites and the associated services that we provide.
 
@@ -101,6 +91,3 @@ Confidential – Privacy Officer
 10 Easey Street, Collingwood 3066
 
 October 2016 </p>
-
-</body>
-</html>
