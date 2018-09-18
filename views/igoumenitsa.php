@@ -1,3 +1,6 @@
+<?php
+include 'config/lang-module.php';
+?>
 
 <br>
 <div class="basic-bio" </div>

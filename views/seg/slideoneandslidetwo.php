@@ -1,3 +1,7 @@
+<?php
+include 'config/lang-module.php';
+?>
+
 <div id="slide1">
   <div class="flex-container">
 

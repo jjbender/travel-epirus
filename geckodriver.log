@@ -1,0 +1,463 @@
+1537163215328	geckodriver	INFO	geckodriver 0.21.0
+1537163215468	geckodriver	INFO	Listening on 127.0.0.1:19643
+1537163215989	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.b06k1BLMOHKj"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1537163227416	Marionette	INFO	Listening on port 19648
+1537163227691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537163227863	Marionette	DEBUG	[6442450945] Frame script loaded
+1537163227878	Marionette	DEBUG	[6442450945] Frame script registered
+1537163228104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537163234540	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537163238956	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537163248642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1537163251097	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1537163252397	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1537163252467	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537163252495	Marionette	INFO	Stopped listening on port 19648
+[Parent 5748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14888, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537163321253	geckodriver	INFO	geckodriver 0.21.0
+1537163321368	geckodriver	INFO	Listening on 127.0.0.1:19782
+1537163321788	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.37hp7mrDIadd"
+1537163331328	Marionette	INFO	Listening on port 19787
+1537163331436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537163331682	Marionette	DEBUG	[6442450945] Frame script loaded
+1537163331703	Marionette	DEBUG	[6442450945] Frame script registered
+1537163331871	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537163333834	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537163335759	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537163345399	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1537163356600	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+[Parent 18212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11816, Chrome_ChildThread] W[Parent 18212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9608, Chrome_ChildThread] WARNING[Parent 18212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11537163414266	Marionette	INFO	Stopped listening on port 19787
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537206414352	geckodriver	INFO	geckodriver 0.21.0
+1537206414487	geckodriver	INFO	Listening on 127.0.0.1:37178
+1537206415029	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.5QooFwLmhUiP"
+1537206427835	Marionette	INFO	Listening on port 37183
+1537206428301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537206428511	Marionette	DEBUG	[6442450945] Frame script loaded
+1537206428528	Marionette	DEBUG	[6442450945] Frame script registered
+1537206428661	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537206430848	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537206432802	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537206442968	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1537206453374	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451001
+1537206453583	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+[Child 7536, Chrome_ChildThread] WARNING:[Parent 2224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11537206475313	Marionette	INFO	Stopped listening on port 37183
+[GPU 8176, Chrome_ChildThread] WARNING: pipe error: JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1537206596541	geckodriver	INFO	geckodriver 0.21.0
+1537206596647	geckodriver	INFO	Listening on 127.0.0.1:37386
+1537206597101	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.CXkC7mWG0zsL"
+1537206606894	Marionette	INFO	Listening on port 37391
+1537206607004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537206607257	Marionette	DEBUG	[6442450945] Frame script loaded
+1537206607280	Marionette	DEBUG	[6442450945] Frame script registered
+1537206607384	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537206612210	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537206614169	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537206625709	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1537206629926	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1537206629948	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451002
+1537206633668	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+[Parent 13540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19176, Chro[Parent 13540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537213759626	Marionette	INFO	Stopped listening on port 37391
+442450945] Received DOM event beforeunload for about:blank
+1537206768093	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537206771189	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537206786898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1537206795340	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451012
+1537206798135	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537206799366	Marionette	INFO	Stopped listening on port 37665
+[Parent 7404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537206859473	geckodriver	INFO	geckodriver 0.21.0
+1537206859600	geckodriver	INFO	Listening on 127.0.0.1:37837
+1537206860099	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.yoLyHmZLbUPh"
+1537206872258	Marionette	INFO	Listening on port 37842
+1537206872798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537206873030	Marionette	DEBUG	[6442450945] Frame script loaded
+1537206873121	Marionette	DEBUG	[6442450945] Frame script registered
+1537206873219	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537206875269	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537206878144	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537206896685	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451003
+1537206897506	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451005
+1537206900695	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451010
+1537206936682	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537206936799	Marionette	INFO	Stopped listening on port 37842
+[Child 12548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro[Parent 19428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13444[Parent 19428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19428, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1537206963682	geckodriver	INFO	geckodriver 0.21.0
+1537206963787	geckodriver	INFO	Listening on 127.0.0.1:38144
+1537206964212	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.UF8ivsyBZFBS"
+1537206974102	Marionette	INFO	Listening on port 38149
+1537206974456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537206974754	Marionette	DEBUG	[6442450945] Frame script loaded
+1537206974804	Marionette	DEBUG	[6442450945] Frame script registered
+1537206974943	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537206976770	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537206978656	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537206989226	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537207003724	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451004
+1537207006599	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537207007285	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537207008520	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537207008584	Marionette	DEBUG	[6442450945] Received DOM event unload for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537207010469	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1537207010470	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1537207010471	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1537207010474	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537207010483	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1537207010493	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451001
+1537207010499	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1537207010501	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537207010502	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1537207010505	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451006
+1537207010516	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1537207010517	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537207010519	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1537207010527	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1537207010529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450999
+1537207010531	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1537207010532	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1537207010536	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537207010542	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537207010543	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1537207010544	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1537207010545	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1537207014927	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=974124ab988e7b137a8dc9a566956984#p8841755
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537207161696	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=974124ab988e7b137a8dc9a566956984#p8841755
+1537207162011	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=974124ab988e7b137a8dc9a566956984#p8841755
+1537207164382	Marionette	DEBUG	[6442450945] Received DOM event unload for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=974124ab988e7b137a8dc9a566956984#p8841755
+1537207167409	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451011
+1537207167411	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451026
+1537207167413	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451031
+1537207167415	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451037
+1537207167418	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451022
+1537207167419	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451009
+1537207167427	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451091
+1537207167433	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451093
+1537207167442	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451095
+1537207167444	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451088
+1537207167447	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451012
+1537207167448	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451036
+1537207167450	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451041
+1537207167452	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451042
+1537207167453	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451049
+1537207167457	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451034
+1537207167459	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451029
+1537207167463	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451015
+1537207167464	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1537207167466	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451065
+1537207167467	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451068
+1537207167469	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451070
+1537207167470	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451061
+1537207167474	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451058
+1537207167476	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451016
+1537207167478	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451077
+1537207167480	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451081
+1537207167481	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451079
+1537207167495	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451083
+1537207167496	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451086
+1537207167497	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451075
+1537207167498	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451072
+1537207167499	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451017
+1537207167500	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1537207167501	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451046
+1537207167503	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451054
+1537207167504	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451056
+1537207168481	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/blog/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537207174821	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://forum.awd.ru/blog/
+1537207175366	Marionette	DEBUG	[2147483652] Frame script loaded
+1537207175375	Marionette	DEBUG	[2147483652] Frame script registered
+1537207175693	Marionette	DEBUG	[2147483654] Frame script loaded
+1537207175701	Marionette	DEBUG	[2147483654] Frame script registered
+1537207175707	Marionette	DEBUG	[6442450945] Received DOM event unload for https://forum.awd.ru/blog/
+1537207175889	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451100
+1537207175891	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451116
+1537207175892	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451114
+1537207175893	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451109
+1537207175894	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451098
+1537207175895	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451119
+1537207175897	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451101
+1537207175898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451104
+1537207175911	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451105
+1537207175913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451112
+1537207175917	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 20196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537207176038	Marionette	INFO	Stopped listening on port 38149
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 20196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14640, Chrome_ChildThre[GPU 19644, [Parent 20196, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }', libcore\result.rs:945:5
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+1537264765735	geckodriver	INFO	geckodriver 0.21.0
+1537264765856	geckodriver	INFO	Listening on 127.0.0.1:43356
+1537264766374	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.E7xTFHD2gVI4"
+1537264784947	Marionette	INFO	Listening on port 43361
+1537264785042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537264785346	Marionette	DEBUG	[6442450945] Frame script loaded
+1537264785981	Marionette	DEBUG	[6442450945] Frame script registered
+1537264786261	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537264788442	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537264790310	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537264801576	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1537264809011	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451002
+1537264809063	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451004
+1537264812531	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537264813049	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537264814196	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537264814270	Marionette	DEBUG	[6442450945] Received DOM event unload for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537264816111	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1537264816113	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1537264816114	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537264816115	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1537264816116	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1537264816117	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1537264816122	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1537264816133	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1537264816135	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450999
+1537264816139	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1537264816143	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537264816147	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1537264816148	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1537264816149	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451001
+1537264816151	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1537264816166	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1537264816168	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537264816169	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537264816171	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1537264816172	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1537264816178	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1537264819005	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=8fc934eb5d48dac793b4560d0e6af2d9#p8841755
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537264835617	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451044
+1537264838346	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451048
+1537265111586	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=8fc934eb5d48dac793b4560d0e6af2d9#p8841755
+1537265112813	Marionette	INFO	Stopped listening on port 43361
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 1940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 1940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537265158175	geckodriver	INFO	geckodriver 0.21.0
+1537265158279	geckodriver	INFO	Listening on 127.0.0.1:43645
+1537265158699	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.hjp0jadvL7ap"
+1537265167417	Marionette	INFO	Listening on port 43650
+1537265167508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537265167753	Marionette	DEBUG	[6442450945] Frame script loaded
+1537265167764	Marionette	DEBUG	[6442450945] Frame script registered
+1537265167861	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537265170295	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537265172037	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537265179898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1537265183139	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1537265184782	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537265185265	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537265186475	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537265186494	Marionette	DEBUG	[6442450945] Received DOM event unload for https://forum.awd.ru/search.php?keywords=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&fid%5B0%5D=949
+1537265188368	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1537265188374	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1537265188376	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1537265188378	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537265188387	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1537265188391	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1537265188392	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1537265188393	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537265188399	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1537265188401	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1537265188403	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1537265188405	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537265188405	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537265188406	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1537265188408	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1537265188409	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1537265188411	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1537265190295	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=8d313de4fe62a836f9a763e8941a616b#p8841755
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, line 74: unreachable code after return statement
+1537265211143	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451031
+1537265212025	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451033
+1537265476868	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://forum.awd.ru/viewtopic.php?f=954&t=348267&p=8841755&hilit=%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0&sid=8d313de4fe62a836f9a763e8941a616b#p8841755
+1537265478449	Marionette	INFO	Stopped listening on port 43650
+[Child 11784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 117[Parent 18028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21000, Chrome_ChildThread] WARNING: pipe error: 109: file z

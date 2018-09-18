@@ -1,3 +1,8 @@
 <?php
-$lang = $_POST['lang'];
+if ($_SESSION('lang') = 'ru'){
+  echo "en";
+}
+elseif ($lang = 'en'){
+  echo "ru";
+}
 ?>
