@@ -1,7 +1,7 @@
 <?php
 include 'config/lang-module.php';
 ?>
-
+<a href="https://www.deptagency.com/cookies/">Our Cookie Policy looks like..</a>
 <p style="color:black;">License
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal

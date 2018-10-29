@@ -460,4 +460,1762 @@ JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-34680187-1, l
 [Child 117[Parent 18028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Parent 18028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 21000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 21000, Chrome_ChildThread] WARNING: pipe error: 109: file z
+[Child 21000, Chrome_ChildThread] WARNING: pipe error: 109: file z1537861238895	geckodriver	INFO	geckodriver 0.21.0
+1537861239074	geckodriver	INFO	Listening on 127.0.0.1:39381
+1537861239579	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.uI7Feic3SgRn"
+1537861367967	geckodriver	INFO	geckodriver 0.21.0
+1537861368185	geckodriver	INFO	Listening on 127.0.0.1:39431
+1537861368522	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.8ucA3oYgVhL0"
+[Child 14660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537861383279	Marionette	INFO	Listening on port 39436
+1537861384028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537861384409	Marionette	DEBUG	[6442450945] Frame script loaded
+1537861384456	Marionette	DEBUG	[6442450945] Frame script registered
+[Child 16228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537861711591	Marionette	INFO	Stopped listening on port 39436
+1537861782511	geckodriver	INFO	geckodriver 0.21.0
+1537861782631	geckodriver	INFO	Listening on 127.0.0.1:39515
+1537861783029	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.36AgmFhO493n"
+1537861791106	Marionette	INFO	Listening on port 39520
+1537861791306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537861791538	Marionette	DEBUG	[6442450945] Frame script loaded
+1537861791554	Marionette	DEBUG	[6442450945] Frame script registered
+1537861791736	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537861793618	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537861802640	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537861817585	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://ru.foursquare.com
+JavaScript error: resource://gre/modules/SelectionSourceContent.jsm, line 65: IndexSizeError: Index or size is negative or greater than the allowed amount
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://ru.foursquare.com
+JavaScript error: resource://gre/modules/SelectionSourceContent.jsm, line 65: IndexSizeError: Index or size is negative or greater than the allowed amount
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://ru.foursquare.com
+[Parent 19276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12564, Chrom1537863290907	Marionette	INFO	Stopped listening on port 39520
+45] Received DOM event beforeunload for about:blank
+1537863223811	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537863233183	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537863246651	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Child 664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537863285718	Marionette	INFO	Stopped listening on port 39782
+[GPU 12088, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537863494037	geckodriver	INFO	geckodriver 0.21.0
+1537863494135	geckodriver	INFO	Listening on 127.0.0.1:40094
+1537863494558	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.9aiyhW0CGoNp"
+1537863503496	Marionette	INFO	Listening on port 40099
+1537863503575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537863503792	Marionette	DEBUG	[6442450945] Frame script loaded
+1537863503824	Marionette	DEBUG	[6442450945] Frame script registered
+1537863503981	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537863505794	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537863514733	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537863526799	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537863527092	Marionette	INFO	Stopped listening on port 40099
+[Parent 17048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537863527818	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 17048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537863562025	geckodriver	INFO	geckodriver 0.21.0
+1537863562121	geckodriver	INFO	Listening on 127.0.0.1:40242
+1537863562563	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.4wAkA4Azp2xA"
+1537863571923	Marionette	INFO	Listening on port 40247
+1537863572437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537863572655	Marionette	DEBUG	[6442450945] Frame script loaded
+1537863572670	Marionette	DEBUG	[6442450945] Frame script registered
+1537863572798	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537863574368	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537863584758	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537863598162	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Parent 11520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537863638451	Marionette	INFO	Stopped listening on port 40247
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537864019149	geckodriver	INFO	geckodriver 0.21.0
+1537864019349	geckodriver	INFO	Listening on 127.0.0.1:40532
+1537864019748	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.r4UxtHq6zAgT"
+1537864029756	Marionette	INFO	Listening on port 40537
+1537864030291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537864030558	Marionette	DEBUG	[6442450945] Frame script loaded
+1537864030566	Marionette	DEBUG	[6442450945] Frame script registered
+1537864030684	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537864032423	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537864042671	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537864059754	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537864060168	Marionette	INFO	Stopped listening on port 40537
+[Child 1756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1756, Chro[[Parent 13220, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537864306200	geckodriver	INFO	geckodriver 0.21.0
+1537864306357	geckodriver	INFO	Listening on 127.0.0.1:40840
+1537864306696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.V392AgoOx3oP"
+1537864316827	Marionette	INFO	Listening on port 40845
+1537864317358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537864317752	Marionette	DEBUG	[6442450945] Frame script loaded
+1537864317825	Marionette	DEBUG	[6442450945] Frame script registered
+1537864317998	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537864319813	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537864329479	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537864341089	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Child 14028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14028, Chrome_ChildThread[Child 10244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537864557040	Marionette	INFO	Stopped listening on port 40845
+[GPU script loaded
+1537864404236	Marionette	DEBUG	[6442450945] Frame script registered
+1537864404371	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537864405976	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537864415595	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537864429650	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Child 13204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13204, Chrome_ChildThread] WARNING: pipe e1537864552186	Marionette	INFO	Stopped listening on port 41042
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537864567242	geckodriver	INFO	geckodriver 0.21.0
+1537864567348	geckodriver	INFO	Listening on 127.0.0.1:41195
+1537864567772	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.16b99d9t7AyG"
+1537864576088	Marionette	INFO	Listening on port 41200
+1537864576575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537864576787	Marionette	DEBUG	[6442450945] Frame script loaded
+1537864576794	Marionette	DEBUG	[6442450945] Frame script registered
+1537864576884	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537864578704	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537864588019	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537864599928	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Parent 14544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1814[Child 14384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 14384, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+ile z:/build/build/src/ipc/chromium/src/chrome
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+/common/i
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+pc_channel_win.cc, line 346
+1537864755343	Marionette	INFO	Stopped listening on port 41200
+[GPU 4551537865674543	geckodriver	INFO	geckodriver 0.21.0
+1537865674645	geckodriver	INFO	Listening on 127.0.0.1:41714
+1537865675072	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.snNn4S8y4NOI"
+1537865684855	Marionette	INFO	Listening on port 41719
+1537865685149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537865685825	Marionette	DEBUG	[6442450945] Frame script loaded
+1537865685834	Marionette	DEBUG	[6442450945] Frame script registered
+1537865686232	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537865688206	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537865699008	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537865713643	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Child 9816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537865809952	Marionette	INFO	Stopped listening on port 41719
+firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.0wlIwGQmB7kf"
+1537865768659	Marionette	INFO	Listening on port 41870
+1537865769115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537865769320	Marionette	DEBUG	[6442450945] Frame script loaded
+1537865769328	Marionette	DEBUG	[6442450945] Frame script registered
+1537865769438	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537865770737	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537865779789	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537865796334	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537865796971	Marionette	INFO	Stopped listening on port 41870
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c1537865797568	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 18408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 18408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9660, Chrome_ChildThread] WARNING: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537865809724	geckodriver	INFO	geckodriver 0.21.0
+1537865809860	geckodriver	INFO	Listening on 127.0.0.1:41997
+1537865810265	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.TAROsxqxfdZp"
+1537865819007	Marionette	INFO	Listening on port 42002
+1537865819152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537865819341	Marionette	DEBUG	[6442450945] Frame script loaded
+1537865819367	Marionette	DEBUG	[6442450945] Frame script registered
+1537865819589	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537865822032	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537865831077	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537865843730	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Child 19192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19191537865941120	Marionette	INFO	Stopped listening on port 42002
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537866399252	geckodriver	INFO	geckodriver 0.21.0
+1537866399389	geckodriver	INFO	Listening on 127.0.0.1:42422
+1537866399877	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.nKBnAKwL0gqf"
+1537866411347	Marionette	INFO	Listening on port 42427
+1537866412047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537866413718	Marionette	DEBUG	[6442450945] Frame script loaded
+1537866413739	Marionette	DEBUG	[6442450945] Frame script registered
+1537866414011	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537866415430	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537866427651	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537866450218	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537866458315	Marionette	INFO	Stopped listening on port 42427
+[Child 3664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3664, Chrome_ChildThread] WARIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 15308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1537866766256	geckodriver	INFO	geckodriver 0.21.0
+1537866766357	geckodriver	INFO	Listening on 127.0.0.1:42603
+1537866766826	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.gkX1FfSwyWBA"
+1537866777272	Marionette	INFO	Listening on port 42608
+1537866777438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537866780221	Marionette	DEBUG	[6442450945] Frame script loaded
+1537866780240	Marionette	DEBUG	[6442450945] Frame script registered
+1537866780399	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537866783409	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537866796251	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537866840701	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537866847443	Marionette	INFO	Stopped listening on port 42608
+[Child 12440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12440, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537867427526	geckodriver	INFO	geckodriver 0.21.0
+1537867427661	geckodriver	INFO	Listening on 127.0.0.1:43024
+1537867428033	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.91WqklQtG8xK"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537867441328	Marionette	INFO	Listening on port 43029
+1537867441585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537867441774	Marionette	DEBUG	[6442450945] Frame script loaded
+1537867441795	Marionette	DEBUG	[6442450945] Frame script registered
+1537867442292	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537867445559	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537867460290	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537867502099	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+[Parent 6968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1537867607679	Marionette	INFO	Stopped listening on port 43029
+[GPU 49081537867742282	geckodriver	INFO	geckodriver 0.21.0
+1537867742384	geckodriver	INFO	Listening on 127.0.0.1:43361
+1537867742808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.P4EFuDcV7sf4"
+1537867753572	Marionette	INFO	Listening on port 43366
+1537867754180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537867754371	Marionette	DEBUG	[6442450945] Frame script loaded
+1537867754377	Marionette	DEBUG	[6442450945] Frame script registered
+1537867754558	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537867757970	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537867772045	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537867816849	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537867818055	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867818787	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867819321	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867819856	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867820334	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867820787	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867821320	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867821822	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867822452	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867823024	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867823575	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867824152	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867824622	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867825124	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867825810	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867826587	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867827048	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867827613	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867828286	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867829047	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867829775	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537867829802	Marionette	INFO	Stopped listening on port 43366
+1537867830805	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 4948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1537868013662	geckodriver	INFO	geckodriver 0.21.0
+1537868013764	geckodriver	INFO	Listening on 127.0.0.1:43602
+1537868014209	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.34Oo4DVI2MtB"
+1537868023180	Marionette	INFO	Listening on port 43607
+1537868023274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537868023595	Marionette	DEBUG	[6442450945] Frame script loaded
+1537868023621	Marionette	DEBUG	[6442450945] Frame script registered
+1537868023782	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537868027256	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537868039949	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537868081300	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537868081946	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537868082001	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868082454	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868082955	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868083373	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868083800	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868084222	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868084730	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868085161	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868085591	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868085997	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868086445	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868086896	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868087321	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868087764	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868088264	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868088759	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868089163	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868089557	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868090014	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868090424	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868090829	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537868090841	Marionette	INFO	Stopped listening on port 43607
+[Child 19356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 6860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15644, C[GPU 16171537868303370	geckodriver	INFO	geckodriver 0.21.0
+1537868303525	geckodriver	INFO	Listening on 127.0.0.1:43753
+1537868303958	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.1VLrPPwCiWfB"
+1537868312541	Marionette	INFO	Listening on port 43758
+1537868312799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537868313056	Marionette	DEBUG	[6442450945] Frame script loaded
+1537868313065	Marionette	DEBUG	[6442450945] Frame script registered
+1537868313210	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537868316556	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537868330998	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537868372927	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537868373792	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537868373829	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 14012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537869976470	Marionette	INFO	Stopped listening on port 43758
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537869991209	geckodriver	INFO	geckodriver 0.21.0
+1537869991327	geckodriver	INFO	Listening on 127.0.0.1:44293
+1537869991833	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.1beLx0CqP1jg"
+1537870001416	Marionette	INFO	Listening on port 44298
+1537870001827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537870002115	Marionette	DEBUG	[6442450945] Frame script loaded
+1537870002126	Marionette	DEBUG	[6442450945] Frame script registered
+1537870002379	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537870006239	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537870020006	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537870062140	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537870062769	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537870062826	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 13940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13940, Chrome_ChildThread] WARNI[Child 19116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19116, [Parent 6304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537870270082	Marionette	INFO	Stopped listening on port 44298
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537870130054	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537870144872	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537870179955	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537870180653	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537870180654	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+[Child 8964, Chrome_ChildT[Parent 11444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14916, Chrome_C1537870420567	Marionette	INFO	Stopped listening on port 44462
+[GPU 1698
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537870872747	geckodriver	INFO	geckodriver 0.21.0
+1537870872847	geckodriver	INFO	Listening on 127.0.0.1:44766
+1537870873334	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.lycQST1pmnqd"
+1537870884839	Marionette	INFO	Listening on port 44771
+1537870886075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537870886370	Marionette	DEBUG	[6442450945] Frame script loaded
+1537870886389	Marionette	DEBUG	[6442450945] Frame script registered
+1537870886548	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537870890153	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537870904942	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537870942318	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537870943023	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537870943066	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 16128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3692, Ch1537893785953	Marionette	INFO	Stopped listening on port 44771
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537893787139	geckodriver	INFO	geckodriver 0.21.0
+1537893787270	geckodriver	INFO	Listening on 127.0.0.1:45038
+1537893787835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nikol\\AppData\\Local\\Temp\\rust_mozprofile.Y2t9x0JwIZud"
+1537893800897	Marionette	INFO	Listening on port 45043
+1537893801152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537893801509	Marionette	DEBUG	[4294967297] Frame script loaded
+1537893801538	Marionette	DEBUG	[4294967297] Frame script registered
+1537893801720	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537893805734	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537893824269	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537893892976	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537893893641	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967309
+1537893893684	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[Parent 19980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537893916524	Marionette	INFO	Stopped listening on port 45043
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pData\\Local\\Temp\\rust_mozprofile.JrfOTPqqxhZC"
+1537893923720	Marionette	INFO	Listening on port 45197
+1537893923921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537893924257	Marionette	DEBUG	[6442450945] Frame script loaded
+1537893924266	Marionette	DEBUG	[6442450945] Frame script registered
+1537893924402	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537893928260	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: SyntaxError: missing } after property list
+JavaScript note: https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715, line 37: { opened at line 37, column 72
+1537893940115	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537894001587	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://ru.foursquare.com/explore?mode=url&near=Io%C3%A1nnina%2C%20Epirus%2C%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F&nearGeoId=72057594038189715
+1537894002364	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537894002401	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894002887	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894003401	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894003886	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894004381	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894004857	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894005335	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894005770	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894006241	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894006839	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894007318	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894007757	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894008205	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894008614	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894009193	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894009665	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894010295	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894010779	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894011399	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894011808	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894012202	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537894012214	Marionette	INFO	Stopped listening on port 45197
+[Child 17776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 19912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui
+###!!! [Child][MessageChannel] Error: (msgtype=0x460015,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+ld/build/src/ipc/chromi
