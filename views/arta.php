@@ -1,6 +1,6 @@
 <?php
 include 'config/lang-module.php';
-$city = 'ioannina';
+$city = 'arta';
 include 'config/weather-module.php';
 ?>
 <div class="dest-card">
@@ -9,19 +9,21 @@ include 'config/weather-module.php';
   <h4>  </h4>
   <div class="dest-card-content"> Current temperature <?php echo($_SESSION['gettemp']);?>&#8451 <br> Current wind speed <?php echo($_SESSION['getwind']);?>m/s <br> Current weather <?php echo($_SESSION['getweather']);?><br><br><?php echo  $lang['ioannina_textone']; ?> </h5> </div>
 
-  <p><button onclick="toggleText()">Useful websites</button></p>
-  <div id="myDIV"></div>
-  <a href="https://www.tripadvisor.com/Tourism-g189453-Ioannina_Ioannina_Region_Epirus-Vacations.html" target="_blank"><i class="fa fa-tripadvisor"></i></a>
+<p>
+  <button onclick="toggleText()">Useful websites
+  </button>
+</p>
+<div id="myDIV"></div>
+  <a href="https://www.tripadvisor.com/Tourism-g189453-Ioannina_Ioannina_Region_Epirus-Vacations.html" target="_blank"
+    ><i class="fa fa-tripadvisor">
+    </i>
+  </a>
  <a href="https://twitter.com/hashtag/ioannina?f=tweets&vertical=default&src=hash" target="_blank"><i class="fa fa-twitter"></i></a>
  <a href="https://www.instagram.com/explore/tags/ioannina/" target="_blank"><i class="fa fa-instagram"></i></a>
  <a href="#"><i class="fa fa-facebook" target="_blank"></i></a>
 <br>
 <br>
 </div>
-
-
-
-
 
 
 <!-- https://codepen.io/jh3y/pen/WwVKLN-->
@@ -72,7 +74,7 @@ include 'config/weather-module.php';
 
 
 <div class="dest-embedded-card">
-  <hr><div class="dest-title"> Media about Ioannina/ need stream.io </div> <hr>
+  <hr><div class="dest-title"> Media about Ioannina </div> <hr>
 
 <br>
 <div class="i_item" align="right"><a data-pin-do="embedPin" href="https://www.pinterest.com/pin/349591989802722953/"></a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script></div>

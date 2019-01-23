@@ -1,5 +1,7 @@
 <?php
 include 'config/lang-module.php';
+$city = 'igoumenitsa';
+include 'config/weather-module.php';
 ?>
 
 <br>

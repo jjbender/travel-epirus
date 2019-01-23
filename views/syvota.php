@@ -1,4 +1,8 @@
-
+<?php
+include 'config/lang-module.php';
+$city = 'parga';
+include 'config/weather-module.php';
+?>
 <br>
 <div class="basic-bio" </div>
 <img id="avatar" src="./assets/images/ioannina.png" align="left">

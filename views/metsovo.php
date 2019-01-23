@@ -1,6 +1,6 @@
 <?php
 include 'config/lang-module.php';
-$city = 'ioannina';
+$city = 'metsovo';
 include 'config/weather-module.php';
 ?>
 <div class="dest-card">
@@ -72,7 +72,7 @@ include 'config/weather-module.php';
 
 
 <div class="dest-embedded-card">
-  <hr><div class="dest-title"> Media about Ioannina/ need stream.io </div> <hr>
+  <hr><div class="dest-title"> Media about Ioannina </div> <hr>
 
 <br>
 <div class="i_item" align="right"><a data-pin-do="embedPin" href="https://www.pinterest.com/pin/349591989802722953/"></a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script></div>

@@ -84,6 +84,13 @@ h4{
     background-size: cover;
 }
 
+#search-module{
+    width: 50%;
+    margin-left: 25%;
+    margin-right:25%;
+    padding-bottom: 5px;
+}
+
 #slide2 {
     background:url("../images/epir.jpg") 50% 0 no-repeat fixed;
     background-color:lightgray;
@@ -104,7 +111,7 @@ h4{
 #h5index {
   background: white;
   text-align: center;
-  margin: 5% 0 5% 0;
+  margin: 5% 0 2% 0;
   position: relative;
   color:#51007A;
 
@@ -277,8 +284,40 @@ h4{
   border-color: black;
 }
 
+/* one more carousel */
 
+.active {
+  height: 130px;
+}
+.active li {
+  position: absolute;
+  top: 200px;
+}
+.active li.current {
+  top: 30px;
+}
 
+.active .buttons {
+  padding: 5px 0;
+  background: #eee;
+  text-align: center;
+  z-index: 10;
+  position: relative;
+}
+
+.carouselbox button {
+  border: none;
+  display: none;
+}
+
+.active button {
+  display: block;
+}
+ 
+.offscreen {
+  position: absolute;
+  left: -2000px;
+}
 
 
 

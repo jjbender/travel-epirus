@@ -1,13 +1,77 @@
 <?php
 include 'config/lang-module.php';
+$city = 'parga';
+include 'config/weather-module.php';
 ?>
 
+<div class="dest-card">
+  <div class="dest-title"><?php echo $lang['Parga']; ?> </div>
+  <div class="dest-avatar"><img src="./assets/images/ioannina.png" alt ="ioannina" align="left"></div>
+  <h4>  </h4>
+  <div class="dest-card-content"> Current temperature <?php echo($_SESSION['gettemp']);?>&#8451 <br> Current wind speed <?php echo($_SESSION['getwind']);?>m/s <br> <?php echo $lang['weather'];?> <?php echo($_SESSION['getweather']);?><br><br><?php echo  $lang['parga_textone']; ?> </h5> </div>
+
+  <p><button onclick="toggleText()">Useful websites</button></p>
+  <div id="myDIV"></div>
+  <a href="https://www.tripadvisor.com/Tourism-g189453-Ioannina_Ioannina_Region_Epirus-Vacations.html" target="_blank"><i class="fa fa-tripadvisor"></i></a>
+ <a href="https://twitter.com/hashtag/ioannina?f=tweets&vertical=default&src=hash" target="_blank"><i class="fa fa-twitter"></i></a>
+ <a href="https://www.instagram.com/explore/tags/ioannina/" target="_blank"><i class="fa fa-instagram"></i></a>
+ <a href="#"><i class="fa fa-facebook" target="_blank"></i></a>
 <br>
 <br>
-<div class="basic-bio" </div>
-<img id="avatar" src="./assets/images/parga.png" align="left">
+</div>
 
-<a  href="./about.html"> <img src="./assets/images/sketch-opinions-ioannina.png" height="100%"</img></a>
-<h4 style="color:black"> Ioannina (Greek: Ιωάννινα [i.oˈanina] (About this sound listen)), often called Yannena (Γιάννενα [ˈʝanena]) within Greece, is the capital and largest city of the Ioannina regional unit and of Epirus, an administrative region in north-western Greece. Its population is 112,486, according to 2011 census. It lies at an elevation of approximately 500 metres (1,640 feet) above sea level, on the western shore of lake Pamvotis (Παμβώτις). Ioannina is located 410 km (255 mi) northwest of Athens, 260 kilometres (162 miles) southwest of Thessaloniki and 80 km (50 miles) east of the port of Igoumenitsa in the Ionian Sea. </h4>
+<!-- https://codepen.io/jh3y/pen/WwVKLN-->
+<div class="carousel">
+    <div class="carousel-inner">
+      <hr><div class="dest-title" align="center"> Videos about Ioannina </div> <hr>
+        <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
+        <div class="carousel-item">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/xE3g0wqDi6c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
+        <div class="carousel-item">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ssyppxSVccs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
+        <div class="carousel-item">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/8R56EZH1Oyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <input class="carousel-open" type="radio" id="carousel-4" name="carousel" aria-hidden="true" hidden="">
+        <div class="carousel-item">
+          <h2> Return to the first video </h2>
+        </div>
+        <label for="carousel-4" class="carousel-control prev control-1">‹</label>
+        <label for="carousel-3" class="carousel-control prev control-1">‹</label>
+        <label for="carousel-2" class="carousel-control next control-1">›</label>
+        <label for="carousel-1" class="carousel-control prev control-2">‹</label>
+        <label for="carousel-3" class="carousel-control next control-2">›</label>
+        <label for="carousel-2" class="carousel-control prev control-3">‹</label>
+        <label for="carousel-1" class="carousel-control next control-3">›</label>
+        <label for="carousel-4" class="carousel-control next control-3">‹</label>
+        <ol class="carousel-indicators">
+            <li>
+                <label for="carousel-1" class="carousel-bullet">•</label>
+            </li>
+            <li>
+                <label for="carousel-2" class="carousel-bullet">•</label>
+            </li>
+            <li>
+                <label for="carousel-3" class="carousel-bullet">•</label>
+            </li>
+            <li>
+                <label for="carousel-4" class="carousel-bullet">•</label>
+            </li>
+        </ol>
+    </div>
+</div>
 
-<div class="i_item"><a data-pin-do="embedPin" href="https://www.pinterest.com/pin/349591989802722953/"></a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script></div></div>
+
+<div class="dest-embedded-card">
+  <hr><div class="dest-title"> Media about Ioannina </div> <hr>
+
+<br>
+<div class="i_item" align="right"><a data-pin-do="embedPin" href="https://www.pinterest.com/pin/349591989802722953/"></a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script></div>
+<br> <iframe width="560" height="315" src="https://www.youtube.com/embed/xE3g0wqDi6c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Panoramic view of Pamvotida lake. <a href="https://twitter.com/hashtag/Ioannina?src=hash&amp;ref_src=twsrc%5Etfw">#Ioannina</a> <a href="https://twitter.com/hashtag/visitGreece?src=hash&amp;ref_src=twsrc%5Etfw">#visitGreece</a> <a href="https://twitter.com/hashtag/Greece?src=hash&amp;ref_src=twsrc%5Etfw">#Greece</a> <a href="https://t.co/K6Til1fzzI">pic.twitter.com/K6Til1fzzI</a></p>&mdash; Katerina Kotsoni (@KaterinaKotsoni) <a href="https://twitter.com/KaterinaKotsoni/status/1040937396165066753?ref_src=twsrc%5Etfw">September 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
